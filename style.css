@@ -88,7 +88,7 @@ a{
   width: 30%;
   height: 0;
   padding-bottom: calc(52% * 9 / 16);
-  background-image: url("/images/myself_1_to_1.png");
+  background-image: url("https://github.com/shyllenno/fcc-web-design-p5-personal-portfolio-webpage/blob/moving-external-images-to-local/images/myself_1_to_1.png");
   background-repeat: no-repeat;
   background-size: 105%;
   background-attachment: relative;
